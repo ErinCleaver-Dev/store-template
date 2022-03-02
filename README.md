@@ -10,22 +10,31 @@
    *  Firebase Authenication
 
 *  Front end
+   *  React Router Dom
+   *  Firebase Authentication
+   *  react-bootstrap bootstrap@5.1.3
+   *  
+
+
+Website:
    *  Customer interface
-      *  Registeration:  
+      *  Registration:  
         *  Ability to create a new account
         *  Ability to register with Google profile
-        *  Ability to register with facebook profiles
+        *  Ability to register with Facebook profiles
       *  Login
         *  Ability to login with profile
         *  Ability to edit profile
         *  Ability to delete their own profile
       * User interactions
         *  Ability to search for Products
-        *  Ability to filiter products
-        *  Ability to click on catagories
+        *  Ability to filter products
+        *  Ability to click on categories
         *  Ability to click on Products
-        *  ABility to view details about the product.
+        *  Ability to view details about the product.
         *  Ability to add items to cart
+        *  Ability to rate products
+        *  Ability to review Products
       * Checkout 
         *  Ability to change the number of items ordered
         *  Ability to remove items from cart
@@ -40,7 +49,7 @@
       *  Can reset passwords for users and employees.
       *  Can add new admins
       *  Can remove admins
-      *  Their most always be one admin
+      *  Their must always be one admin
    *  Employee interface
       * Catagories
         *  Ability to add new product catagories
