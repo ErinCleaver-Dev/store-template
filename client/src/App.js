@@ -1,4 +1,5 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import React, {useState, useEffect, createContext} from 'react';
 import Header from './components/Header/Header'
 import Home from './pages/home/Home'
 function App() {
